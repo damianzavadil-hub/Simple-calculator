@@ -1,4 +1,4 @@
-
+ENGLISH
 Supported Operations
 
 • Addition (+)
@@ -13,6 +13,11 @@ Features
 • Automatically removes spaces, making input formatting flexible
 • Includes basic handling for division by zero and invalid operators
 
+1. Copy the code from the ent.py file.
+2. Paste it into your editor (e.g., VS Code, PyCharm).
+3. Run the program.
+
+CZECH  
 Podporované operace
 
 • Sčítání (+)
@@ -26,3 +31,7 @@ Funkce
 • Přijímá vstup ve tvaru x op y (např. 5 + 3 nebo 2^10)
 • Automaticky odstraňuje mezery, takže na formátování vstupu nezáleží
 • Obsahuje základní ošetření pro dělení nulou a neplatné operátory
+
+1. Zkopírujte si kód ze souboru `ent.py`.
+2. Vložte ho do svého editoru (např. VS Code, PyCharm).
+3. Spusťte program.
