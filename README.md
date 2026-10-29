@@ -17,7 +17,7 @@ Features
 2. Paste it into your editor (e.g., VS Code, PyCharm).
 3. Run the program.
 
-CZECH  
+ČEŠTINA 
 Podporované operace
 
 • Sčítání (+)
