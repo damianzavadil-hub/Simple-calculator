@@ -35,3 +35,27 @@ Funkce
 1. Zkopírujte si kód ze souboru `ent.py`.
 2. Vložte ho do svého editoru (např. VS Code, PyCharm).
 3. Spusťte program.
+
+
+# CLI Calculator
+
+A simple command-line calculator written in Python that parses and evaluates basic mathematical expressions.
+
+*Read this in another language: [Čeština](README.cs.md)*
+
+## Supported Operations
+* **Addition** (`+`)
+* **Subtraction** (`-`)
+* **Multiplication** (`*`)
+* **Division** (`/`)
+* **Power** (`^`)
+
+## Features
+* **Flexible Input:** Accepts expressions in the format `x op y` (e.g., `5 + 3` or `2^10`).
+* **Whitespace Insensitive:** Automatically removes spaces, making input formatting highly flexible.
+* **Error Handling:** Includes basic handling for division by zero and invalid operators.
+
+## How to Run
+1. Copy the code from the `ent.py` file.
+2. Paste it into your editor (e.g., VS Code, PyCharm).
+3. Run the program.
